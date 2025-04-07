@@ -1,10 +1,11 @@
 # chenwen2209010032
+
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>张三求职简历</title>
+    <title>求职简历</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -73,14 +74,15 @@
 <body>
     <div class="container">
         <header>
-            <h1>张三求职简历</h1>
+            <h1>求职简历</h1>
         </header>
         <section class="profile-photo">
-            <img src="https://example.com/path/to/your/photo.jpg" alt="张三头像">
+            <img src="https://pic.52112.com/180504/180504_80/qELUGKtNA6_small.jpg" alt="张三头像">
         </section>
         <section class="personal-info">
             <h2>个人基础信息</h2>
-            <p><strong>姓名：</strong>张三</p>
+            <p><strong>姓名：</strong>陈雯</p>
+            <p><strong>学号：</strong>2209010032</p>
             <p><strong>出生日期：</strong>2000年1月1日</p>
             <div class="contact-info">
                 <p><strong>联系电话：</strong><a href="tel:12312341234">12312341234</a></p>
@@ -121,7 +123,7 @@
         </section>
         <section class="self-evaluation">
             <h2>自我评价</h2>
-            <p>张三是一名具备扎实专业知识和丰富实践经验的工商管理专业本科生。他热爱学习，勇于挑战，善于在团队中发挥积极作用。在未来的工作中，他将继续保持积极向上的态度，不断提升自己的专业技能和综合素质，为公司的发展贡献自己的力量。</p>
+            <p>我是一名具备扎实专业知识和丰富实践经验的工商管理专业本科生。我热爱学习，勇于挑战，善于在团队中发挥积极作用。在未来的工作中，他将继续保持积极向上的态度，不断提升自己的专业技能和综合素质，为公司的发展贡献自己的力量。</p>
         </section>
     </div>
 </body>
