@@ -79,6 +79,11 @@
         <section class="profile-photo">
             <img src="https://pic.52112.com/180504/180504_80/qELUGKtNA6_small.jpg" alt="张三头像">
         </section>
+           <section class="tupian">
+            <h2>
+                图片来源于网络，如有侵权请联系我删除
+            </h2>
+        </section>
         <section class="personal-info">
             <h2>个人基础信息</h2>
             <p><strong>姓名：</strong>陈雯</p>
@@ -125,6 +130,7 @@
             <h2>自我评价</h2>
             <p>我是一名具备扎实专业知识和丰富实践经验的工商管理专业本科生。我热爱学习，勇于挑战，善于在团队中发挥积极作用。在未来的工作中，他将继续保持积极向上的态度，不断提升自己的专业技能和综合素质，为公司的发展贡献自己的力量。</p>
         </section>
+  
     </div>
 </body>
 </html>
