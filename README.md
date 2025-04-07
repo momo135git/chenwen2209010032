@@ -77,7 +77,7 @@
             <h1>求职简历</h1>
         </header>
         <section class="profile-photo">
-            <img src="https://pic.52112.com/180504/180504_80/qELUGKtNA6_small.jpg" alt="张三头像">
+            <img src="http://pic1.huashichang.com/2016/0719/23/578e4de92e8b0.jpg" alt="张三头像">
         </section>
            <section class="tupian">
             <h2>
